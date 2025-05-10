@@ -1,0 +1,11 @@
+{
+  "name": "hello-tea",
+  "version": "1.0.0",
+  "description": "Proyek percobaan untuk Tea Protocol",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No test\""
+  },
+  "author": "walletea",
+  "license": "MIT"
+}
